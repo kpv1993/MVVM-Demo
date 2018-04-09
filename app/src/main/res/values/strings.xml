@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVM Demo</string>
+    <string name="google_maps_key">AIzaSyAPgH8Tx4dhktXRRKvV27BNoyxkYVMcUN0</string>
+    <string name="place_details">
+    <![CDATA[
+        %3$s
+    ]]>
+    </string>
+</resources>

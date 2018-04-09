@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1022547392558",
+    "firebase_url": "https://porterdemo-1522564154256.firebaseio.com",
+    "project_id": "porterdemo-1522564154256",
+    "storage_bucket": "porterdemo-1522564154256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022547392558:android:6cd88daf40c9c4d3",
+        "android_client_info": {
+          "package_name": "com.example.prashanth.porterdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022547392558-27hmk6k8nd63ir037rpnrremutdd8ric.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1022547392558-7lrv2b2a2p74c2mc3o9g4uq1v4nmbqsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmb1xfvaX4oZ56t3DrT1JDUCKOju5mvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
